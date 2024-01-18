@@ -5,3 +5,4 @@ Forma studiów: Niestacjonarne
 Kierunek: Informatyka Stosowana
 Grupa: 3
 Student: Kamil Zoliński
+edycja
